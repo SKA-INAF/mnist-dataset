@@ -1,0 +1,4 @@
+outs:
+- md5: deb9427defbd02ef1155f4b7663299a3
+  size: 5760
+  path: mnist_class3_1802.fits

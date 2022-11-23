@@ -1,0 +1,4 @@
+outs:
+- md5: cabb13e7c5e07eb511231a317514b6fb
+  size: 5760
+  path: mnist_class1_2847.fits

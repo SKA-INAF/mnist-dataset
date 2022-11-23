@@ -1,0 +1,4 @@
+outs:
+- md5: aadb207005223de0efd8db084e166503
+  size: 5760
+  path: mnist_class3_1079.fits

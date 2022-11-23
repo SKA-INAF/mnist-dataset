@@ -1,0 +1,4 @@
+outs:
+- md5: cea53924a971043086f9915edaddeef5
+  size: 5760
+  path: mnist_class2_3835.fits
