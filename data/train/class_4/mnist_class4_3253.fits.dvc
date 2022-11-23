@@ -1,0 +1,4 @@
+outs:
+- md5: 7a3e690e1e1811463e891e6f4cacabad
+  size: 5760
+  path: mnist_class4_3253.fits
