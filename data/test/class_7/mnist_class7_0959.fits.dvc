@@ -1,0 +1,4 @@
+outs:
+- md5: fda424141f2ae3f3343efaa2ea41897c
+  size: 5760
+  path: mnist_class7_0959.fits

@@ -1,0 +1,4 @@
+outs:
+- md5: 2860076b40bef7b028cc473b06885a6d
+  size: 5760
+  path: mnist_class7_0903.fits

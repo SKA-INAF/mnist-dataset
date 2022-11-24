@@ -1,0 +1,4 @@
+outs:
+- md5: bead73a25a0d2a4bf31be8a5608c8813
+  size: 5760
+  path: mnist_class1_0989.fits
